@@ -1,0 +1,3 @@
+Task 3:
+The task 3 couldn't perform beacuse in automation we need locators like ID,ClassName,Xpath etc for writing any script.
+you just provide swaager ui link, in this link I just having responces not locators now how can I write script without locators.
