@@ -79,34 +79,6 @@ public class TestCase {
 		Thread.sleep(1000);
 		driver.findElement(By.xpath("//*[@id=\"cart_navigation\"]/button")).click();
 		Thread.sleep(1000);
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-
-//		if (driver.getCurrentUrl().equalsIgnoreCase("https://stagingweb.myhelpp.com/login")) {
-//			System.out.println("Test Pass");
-//			Thread.sleep(10000);
-//			driver.quit();
-//		} else {
-//			System.out.println("Test Failed");
-//			driver.quit();
-//		}
-
 	}
 
 }
